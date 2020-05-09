@@ -872,6 +872,11 @@ section.lazy-placeholder:after {
 .cid-rXJVMfrehp .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rXJVMfrehp .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 5.9rem);
+  }
+}
 .cid-rXJVMfrehp .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1600,6 +1605,11 @@ section.lazy-placeholder:after {
 .cid-rXJXAhkJyl .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rXJXAhkJyl .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 5.9rem);
+  }
+}
 .cid-rXJXAhkJyl .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1756,7 +1766,7 @@ section.lazy-placeholder:after {
   color: #0f7699 !important;
 }
 .cid-rISkIRc9yR {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-color: #bcff83;
 }
@@ -2265,6 +2275,11 @@ section.lazy-placeholder:after {
 .cid-rXJY4ewbFl .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rXJY4ewbFl .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 5.9rem);
+  }
+}
 .cid-rXJY4ewbFl .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2421,7 +2436,7 @@ section.lazy-placeholder:after {
   color: #0f7699 !important;
 }
 .cid-rISt6pWDPx {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-color: #bcff83;
 }
@@ -2795,6 +2810,11 @@ section.lazy-placeholder:after {
 .cid-rXJXLIHIPU .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rXJXLIHIPU .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 5.9rem);
+  }
+}
 .cid-rXJXLIHIPU .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2951,7 +2971,7 @@ section.lazy-placeholder:after {
   color: #0f7699 !important;
 }
 .cid-rISr6oYtLC {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-color: #bcff83;
 }
@@ -3398,6 +3418,11 @@ section.lazy-placeholder:after {
 .cid-rXJYiZ0wr5 .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rXJYiZ0wr5 .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 5.9rem);
+  }
+}
 .cid-rXJYiZ0wr5 .collapsed button.navbar-toggler {
   display: block;
 }
@@ -3554,7 +3579,7 @@ section.lazy-placeholder:after {
   color: #0f7699 !important;
 }
 .cid-rISusmJvb5 {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-color: #bcff83;
 }
@@ -3988,6 +4013,11 @@ section.lazy-placeholder:after {
 .cid-rXJXtkJVbN .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rXJXtkJVbN .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 5.9rem);
+  }
+}
 .cid-rXJXtkJVbN .collapsed button.navbar-toggler {
   display: block;
 }
@@ -4144,7 +4174,7 @@ section.lazy-placeholder:after {
   color: #0f7699 !important;
 }
 .cid-rJRRkPWQjV {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-color: #bcff83;
 }
@@ -4584,6 +4614,11 @@ section.lazy-placeholder:after {
 .cid-rXJYNRm1uP .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rXJYNRm1uP .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 5.9rem);
+  }
+}
 .cid-rXJYNRm1uP .collapsed button.navbar-toggler {
   display: block;
 }
@@ -4740,7 +4775,7 @@ section.lazy-placeholder:after {
   color: #0f7699 !important;
 }
 .cid-rKWq5A9k9I {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-color: #bcff83;
 }
@@ -5148,6 +5183,11 @@ section.lazy-placeholder:after {
 .cid-rXXnX7opMy .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rXXnX7opMy .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 5.9rem);
+  }
+}
 .cid-rXXnX7opMy .collapsed button.navbar-toggler {
   display: block;
 }
@@ -5304,7 +5344,7 @@ section.lazy-placeholder:after {
   color: #0f7699 !important;
 }
 .cid-rXXnX7Pd2l {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-color: #bcff83;
 }
