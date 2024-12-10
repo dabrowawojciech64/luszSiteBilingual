@@ -32,6 +32,7 @@
     <link rel="stylesheet" href="assets/tether/tether.min.css" />
     <link rel="stylesheet" href="assets/animatecss/animate.min.css" />
     <link rel="stylesheet" href="assets/theme/css/style.css" />
+    <link rel="stylesheet" href="assets/kettek/custom-styles.css" />
     <link
       rel="preload"
       as="style"
@@ -68,7 +69,7 @@
         <div class="menu-logo">
           <div class="navbar-brand">
             <span>
-              <table
+              <!-- <table
                 class="table table-sm table-borderless"
                 cellspacing="0"
                 cellpadding="0"
@@ -104,7 +105,29 @@
                     </td>
                   </tr>
                 </tbody>
-              </table>
+              </table> -->
+              <div class="language-selector">
+                <div class="selected-language" id="selectedLanguage">
+                  <img src="assets/images/polishFlag.png" alt="PL" /> PL
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6">
+                    <path fill="black" d="M0 0l5 5 5-5z" />
+                  </svg>
+                </div>
+                <div class="language-options" id="languageOptions">
+                  <div class="language-option" data-value="de">
+                    <img src="assets/images/germanFlag.png" alt="DE" /> DE
+                  </div>
+                  <div class="language-option" data-value="pl">
+                    <img src="assets/images/polishFlag.png" alt="PL" /> PL
+                  </div>
+                  <div class="language-option" data-value="ua">
+                    <img src="assets/images/ukrainianFlag.png" alt="UA" /> UA
+                  </div>
+                  <div class="language-option" data-value="cn">
+                    <img src="assets/images/chineseFlag.png" alt="CN" /> CN
+                  </div>
+                </div>
+              </div>
             </span>
             <span class="navbar-caption-wrap"
               ><a class="navbar-caption text-black display-5" href="index.html"
@@ -419,6 +442,7 @@
     <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
     <script src="assets/theme/js/script.js"></script>
     <script src="assets/slidervideo/script.js"></script>
+    <script src="assets/kettek/custom-script.js"></script>
 
     <input name="animation" type="hidden" />
   </body>
