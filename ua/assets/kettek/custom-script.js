@@ -32,13 +32,11 @@ document.querySelectorAll(".language-option").forEach(function (option) {
         switch (selectedValue) {
             case "de":
                 newPath =
-                    currentFolder === "pl" ||
-                    currentFolder === "ua" ||
-                    currentFolder === "cn"
+                    isInSubfolder(currentFolder)
                     ? `../${currentPage}`
                     : currentPage;
                 break;
-case "pl":
+            case "pl":
                 newPath = currentFolder === "pl" ? currentPage : !isInSubfolder(currentFolder)? `./pl/${currentPage}` : `../pl/${currentPage}`;
                 break;
             case "ua":
