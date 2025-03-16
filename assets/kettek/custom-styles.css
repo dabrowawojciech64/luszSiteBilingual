@@ -55,9 +55,13 @@
 .flag-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
+    gap: 5px;
     max-width: 95px;
-    padding:0.3rem;
+    padding: 5px;
+}
+
+.flag-item{
+    line-height: 1;
 }
 
 .flag-item img{
